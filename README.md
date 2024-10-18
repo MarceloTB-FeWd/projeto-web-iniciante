@@ -40,6 +40,8 @@ projeto-web-iniciante/        # Repositório
 │       └── js/               # Subpasta de interação
 └── README.md
 
+## Observação
+
 O projeto estava gerando um erro no qual, o arquivo "index.js" acessava o "id", mas estava retornando valor = (null),
 portanto tive que acrescentar uma chamada também da ".listagem", já que assim, com o clique de interação os "id" seriam selecionados sem
 que houvessem erros. Visto que no "index.html" tudo relacionado ao "id" estava conferindo, contudo não dava certo.
