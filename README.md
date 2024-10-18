@@ -1,3 +1,7 @@
+## 🌐
+[![Português](https://img.shields.io/badge/-Português-green)](README.md)  
+[![English](https://img.shields.io/badge/-English-blue)](README_en.md)
+
 # Nome do Projeto
 
 Projeto - Criaturas do Paleolítico
