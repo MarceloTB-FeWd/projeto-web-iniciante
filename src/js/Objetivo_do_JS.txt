@@ -8,4 +8,3 @@ OBJETIVO - Quando clicar na criatura da listagem tem que esconder o cartão da c
     cartão abrir;
        PASSO 5 - Remover a classe ativo que marca a criatura selecionada na listagem;
        PASSO 6 - Adicionar a classe ativo na criatura selecionada na listagem.
-*/
