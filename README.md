@@ -1,4 +1,4 @@
-# Nome do Projeto# Nome do Projeto
+# Nome do Projeto
 
 Projeto - Criaturas do Paleolítico
 
@@ -6,7 +6,7 @@ Projeto - Criaturas do Paleolítico
 e deve ser considerado como o primeiro passo de uma longa caminhada.
 
 > Este site foi criado com HTML, CSS e JavaScript, como parte do meu aprendizado de desenvolvimento web.
-> O mesmo é um catálogo de criaturas baseadas em como talvez seriam os personagens do folclore brasileiro pintados nas paredes de carvernas na época da Pedra Lascada com uma interface simples, amigável e interativa.
+> O mesmo é um catálogo de criaturas baseadas em como talvez seriam os personagens do folclore brasileiro pintados nas paredes de cavernas na época da Pedra Lascada com uma interface simples, amigável e interativa.
 
 ## Funcionalidades
 
