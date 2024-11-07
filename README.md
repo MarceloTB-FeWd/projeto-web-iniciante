@@ -32,7 +32,7 @@ e deve ser considerado como o primeiro passo de uma longa caminhada.
 - [GitHub Pages](https://pages.github.com/) (para hospedar o site de maneira gratuita).
 
 ## Estruturação das pastas no repositório
-
+```
 projeto-web-iniciante/        # Repositório
 ├── Criaturas_Paleo/          # Pasta Principal
 │   ├── index.html            # Página principal
@@ -43,7 +43,7 @@ projeto-web-iniciante/        # Repositório
             ├── font/         # Subpasta da fonte         
 │       └── js/               # Subpasta de interação
 └── README.md
-
+```
 ## Observação
 
 O projeto estava gerando um erro no qual, o arquivo "index.js" acessava o "id", mas estava retornando valor = (null),
