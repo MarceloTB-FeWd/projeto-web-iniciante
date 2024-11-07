@@ -30,7 +30,7 @@ Project - Paleolithic Creatures
 - [GitHub Pages](https://pages.github.com/) (to host the site for free).
 
 ## Repository Folder Structure
-
+```
 projeto-web-iniciante/        # Repository  
 ├── Criaturas_Paleo/          # Main folder  
 │   ├── index.html            # Main page  
@@ -41,7 +41,7 @@ projeto-web-iniciante/        # Repository
             ├── font/         # Font subfolder  
 │       └── js/               # Interaction subfolder  
 └── README.md
-
+```
 ## Note
 
 The project initially generated an error: the "index.js" file tried to access the "id" but returned a value of `null`. I had to include a reference to ".listagem" to ensure that the interactive clicks correctly selected the "id" values without errors. Although everything related to the "id" in the "index.html" file seemed correct, it wasn't working. I solved the issue by adding the reference and using logs to check.
